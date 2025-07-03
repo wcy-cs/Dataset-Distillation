@@ -8,6 +8,7 @@
 - Latent Dataset Distillation with Diffusion Models
 - Efficient Dataset Distillation via Minimax DiffusionCVPR 24
 - MGD3: Mode-Guided Dataset Distillation using Diffusion Models
+- FADRM: Fast and Accurate Data Residual Matching for Dataset Distillation
 
 
 
